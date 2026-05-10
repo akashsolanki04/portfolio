@@ -33,9 +33,9 @@ function ResumePage() {
           <div className="timeline">
             <div className="timeline-item">
               <div className="card">
-                <h5>Bachelor of Science (Animation and Multimedia)</h5>
-                <p>The Global Open University, India</p>
-                <span className="date">June 2021 – June 2024</span>
+                <h5>Bachelor of Commerce </h5>
+                <p> PUNE University, India</p>
+                <span className="date"> JUN 2021 – MARCH  2024</span>
               </div>
             </div>
           </div>
