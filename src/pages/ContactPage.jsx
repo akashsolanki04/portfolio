@@ -166,12 +166,12 @@ function ContactPage() {
 
           <InfoLine
             icon="📧"
-            text="anilnayak9969@gmail.com"
+            text="sky130494@gmail.com"
           />
 
           <InfoLine
             icon="📞"
-            text="+91 9969079783"
+            text="+91 8779948849"
           />
 
           <p
