@@ -27,47 +27,44 @@ function AboutPage() {
         <div className="card reveal" ref={cardRef} style={{ lineHeight: "1.85" }}>
 
           <p style={{ marginBottom: "18px", color: "#94a3b8" }}>
-            I am a{" "}
-            <strong style={{ color: "var(--white)" }}>
-              creative and detail-oriented Junior Artist
-            </strong>{" "}
-            with a strong passion for visual storytelling and visual effects.
-            I have foundational experience in composition and motion graphics,
-            and working knowledge of tools such as{" "}
-            <strong style={{ color: "var(--white)" }}>Maya</strong>,{" "}
-            <strong style={{ color: "var(--white)" }}>Nuke</strong>, and{" "}
-            <strong style={{ color: "var(--white)" }}>After Effects</strong>.
-          </p>
+  I am a{" "}
+  <strong style={{ color: "var(--white)" }}>
+    creative and detail-oriented Junior Artist
+  </strong>{" "}
+  with a strong passion for visual storytelling, motion graphics, and digital
+  design. I have experience working with{" "}
+  <strong style={{ color: "var(--white)" }}>Adobe After Effects</strong> and
+  a strong understanding of visual composition, creative editing, and content
+  presentation.
+</p>
 
-          <p style={{ marginBottom: "18px", color: "#94a3b8" }}>
-            Alongside my creative background, I am currently pursuing studies
-            in the{" "}
-            <strong style={{ color: "var(--white)" }}>
-              Information Technology
-            </strong>{" "}
-            field, developing skills in{" "}
-            <strong style={{ color: "var(--white)" }}>HTML</strong>,{" "}
-            <strong style={{ color: "var(--white)" }}>CSS</strong>,{" "}
-            <strong style={{ color: "var(--white)" }}>Bootstrap</strong>, and{" "}
-            <strong style={{ color: "var(--white)" }}>JavaScript</strong>.
-          </p>
+<p style={{ marginBottom: "18px", color: "#94a3b8" }}>
+  Alongside my creative background, I am currently pursuing studies in the{" "}
+  <strong style={{ color: "var(--white)" }}>
+    Information Technology
+  </strong>{" "}
+  field, developing skills in{" "}
+  <strong style={{ color: "var(--white)" }}>HTML</strong>,{" "}
+  <strong style={{ color: "var(--white)" }}>CSS</strong>,{" "}
+  <strong style={{ color: "var(--white)" }}>Bootstrap</strong>, and{" "}
+  <strong style={{ color: "var(--white)" }}>JavaScript</strong>.
+</p>
 
-          <p style={{ marginBottom: "18px", color: "#94a3b8" }}>
-            This blend of creativity and technical knowledge helps me approach
-            problems with both{" "}
-            <strong style={{ color: "var(--white)" }}>design thinking</strong>{" "}
-            and{" "}
-            <strong style={{ color: "var(--white)" }}>logical solutions</strong>.
-          </p>
+<p style={{ marginBottom: "18px", color: "#94a3b8" }}>
+  I also have practical knowledge of{" "}
+  <strong style={{ color: "var(--white)" }}>Microsoft Excel</strong>,{" "}
+  <strong style={{ color: "var(--white)" }}>PowerPoint</strong>, and digital
+  documentation tools for creating presentations, reports, and organized
+  project workflows.
+</p>
 
-          <p style={{ color: "#94a3b8" }}>
-            I am committed to continuous learning and eager to contribute to
-            innovative projects in the{" "}
-            <strong style={{ color: "var(--white)" }}>VFX</strong> and{" "}
-            <strong style={{ color: "var(--white)" }}>
-              technology industries
-            </strong>.
-          </p>
+<p style={{ color: "#94a3b8" }}>
+  I am a quick learner with strong problem-solving abilities, teamwork skills,
+  and a passion for continuous learning. My combination of creativity and
+  technical knowledge helps me approach projects with both{" "}
+  <strong style={{ color: "var(--white)" }}>design thinking</strong> and{" "}
+  <strong style={{ color: "var(--white)" }}>logical solutions</strong>.
+</p>
 
           {/* SKILL TAGS */}
           <div style={{ marginTop: "28px" }}>
